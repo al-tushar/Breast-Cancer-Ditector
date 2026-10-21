@@ -1,0 +1,8 @@
+archive/
+archive.zip
+dataset/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pth
